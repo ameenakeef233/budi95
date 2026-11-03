@@ -15,8 +15,8 @@ A modern, iOS-inspired Android mobile application designed to calculate estimate
 - Android Studio
 
 ## 👨‍💻 Author Information
-- **Name:** Muhammad Afeeq Bin Muhd Nasir
-- **Matric No:** 2025107613
+- **Name:** AMEEN AKEEF BIN MOHD ARIFF
+- **Matric No:** 2025120389
 - **Course:** M3CS2514A
 
 ## 📸 Screenshots
